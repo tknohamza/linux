@@ -70,7 +70,7 @@ Linux is a **powerful, versatile, and secure** operating system that drives much
 
 
 
-### <a name="Copyright©2025"></a> Copyright © 2025
+### <a name="Copyright©2026"></a> Copyright © 2026
 
 Thank you for engaging with us. For inquiries or collaboration, please contact:  
 **tknohamzacontact@gmail.com**
